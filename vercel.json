@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/AGENTCHA", "destination": "/agentcha", "permanent": false },
+    { "source": "/Agentcha", "destination": "/agentcha", "permanent": false },
+    { "source": "/AgentCha", "destination": "/agentcha", "permanent": false }
+  ]
+}
